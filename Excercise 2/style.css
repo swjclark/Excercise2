@@ -1,0 +1,19 @@
+header {
+ padding-left: 20px;
+}
+p{
+  padding-top: 100px;
+  color: red;
+  font-family: serif;
+}
+h3{
+  text-align: right;
+  font-family: cursive;
+}
+header h1{
+  font-size: 5.0em;
+  font-family: ;
+}
+h2{
+  color: blue;
+}
